@@ -1,0 +1,31 @@
+body{
+    background-color: blanchedalmond;
+    border: 2px solid black;
+}
+
+.box {
+    border: 2px solid black;
+    margin: 20px;
+    text-align: center;
+    padding: 60px;
+    /* width: 50%; */
+    background-color: antiquewhite;
+    font-size:xx-large;
+    font-weight: bold;
+}
+
+.upper1 ,.upper2{
+    text-align: center;
+}
+
+.div2 ,.div3{
+    
+    
+    align-items: center;
+    display: flex;
+    
+}
+.pdiv{
+    border: 2px solid rgb(15, 16, 15);
+    background-color: rgb(233, 223, 135);
+}
