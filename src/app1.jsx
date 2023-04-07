@@ -35,7 +35,7 @@ const App = () => {
     return (
         <>
 
-            <h3 className="upper1"> Live Data</h3>
+            <h3 className="upper1">🔻 Live Data</h3>
 
             <h2 className="upper2">covid 19 Live tracker</h2>
 <div className="pdiv">
